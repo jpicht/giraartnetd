@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/jpicht/gira"
+	"github.com/jpicht/giraartnetd/gira"
 )
 
 type Client interface {

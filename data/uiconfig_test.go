@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/jpicht/gira/data"
+	"github.com/jpicht/giraartnetd/data"
 	"github.com/stretchr/testify/require"
 )
 

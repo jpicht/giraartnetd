@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jpicht/gira"
-	"github.com/jpicht/gira/data"
+	"github.com/jpicht/giraartnetd/data"
+	"github.com/jpicht/giraartnetd/gira"
 	"github.com/jsimonetti/go-artnet"
 	"github.com/jsimonetti/go-artnet/packet"
 	"github.com/jsimonetti/go-artnet/packet/code"

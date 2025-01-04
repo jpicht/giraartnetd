@@ -1,4 +1,4 @@
-module github.com/jpicht/gira
+module github.com/jpicht/giraartnetd
 
 go 1.23.0
 
