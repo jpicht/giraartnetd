@@ -1,0 +1,12 @@
+{
+  "ignore_ssl": true,
+  "server": "https://....",
+  "token": "...",
+  "client_id": "...",
+  "artnet": {
+    "network": "2.0.0.0/8",
+    "net": 0,
+    "sub_uni": 4
+  },
+  "auto_on_off": false
+}
